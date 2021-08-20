@@ -1,0 +1,8 @@
+* TODO read up on Reddit
+plenty of guides, do some reading to so I can start to plan my way forward:
+- https://www.reddit.com/r/MechanicalKeyboards/wiki/numpads#wiki_diy_numpads_and_mediapads
+- https://www.reddit.com/r/MechanicalKeyboards/wiki/customkeyboards
+- https://github.com/ruiqimao/keyboard-pcb-guide
+- https://www.reddit.com/r/MechanicalKeyboards/comments/5nzpd2/guide_how_to_make_your_own_keyboard_pcb/
+* TODO resources
+compare pcb manufacturers: https://pcbshopper.com/
